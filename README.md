@@ -1,2 +1,2 @@
 # the-sandbox
-For play.
+This repository is for play.
